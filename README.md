@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Saniya Ashraf 👋
 
-<!--
-**Saniyaashraf-ai/Saniyaashraf-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech graduate in Artificial Intelligence, now building skills in **Data Science and Business Analytics**.
 
-Here are some ideas to get you started:
+## 🎯 What I'm working towards
+- A Master's degree in Data Science / Business Analytics abroad
+- Using data and AI to solve real business problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- B.Tech in Artificial Intelligence, G.H. Raisoni College of Engineering, Nagpur (2026)
+
+## 🛠️ Skills I'm learning and practising
+- Python (Pandas, Matplotlib)
+- SQL
+- Statistics and Machine Learning basics
+- Excel / Power BI dashboards
+
+## 📂 My projects
+- Sales Data Analysis (coming soon)
+- SQL Business Queries (coming soon)
+- Customer Churn Prediction (coming soon)
+
+## 📫 Connect with me
+- LinkedIn: add your link here
+- Email: add your email here
