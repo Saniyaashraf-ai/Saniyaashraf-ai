@@ -20,6 +20,4 @@ B.Tech graduate in Artificial Intelligence, now building skills in **Data Scienc
 - SQL Business Queries (coming soon)
 - Customer Churn Prediction (coming soon)
 
-## 📫 Connect with me
-- LinkedIn: add your link here
-- Email: add your email here
+
