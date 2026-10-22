@@ -16,7 +16,7 @@ B.Tech graduate in Artificial Intelligence, now building skills in **Data Scienc
 - Excel / Power BI dashboards
 
 ## 📂 My projects
-- Sales Data Analysis (coming soon)
+- [Sales Data Analysis](https://github.com/Saniyaashraf-ai/sales-data-analysis): Python and Pandas analysis of retail sales
 - SQL Business Queries (coming soon)
 - Customer Churn Prediction (coming soon)
 
